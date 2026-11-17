@@ -1,0 +1,6 @@
+mcp[cli]>=2.3,<3
+pymupdf
+faiss-cpu
+sentence-transformers
+ollama
+streamlit
